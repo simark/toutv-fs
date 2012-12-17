@@ -11,4 +11,6 @@ La solution saute aux yeux: créer un système de fichier FUSE offrant une vue s
 
 Je me base sur la [librairie python pour Tou.TV](https://github.com/bvanheu/Tou.tv-console-application) écrite par Benjamin Vanheuverzwijn.
 
-État du projet: preuve de concept. Le _layout_ du système de fichier est présent ([output de la commande _tree_](http://paste.ubuntu.com/1444583/)). Avec quelques configurations (HowTo à venir), il est possible de naviguer dans les fichiers à partir du WDTV.
+État du projet
+--------------
+Preuve de concept. Le _layout_ du système de fichier est présent ([output de la commande _tree_](http://paste.ubuntu.com/1444583/)). Avec quelques configurations (HowTo à venir), il est possible de naviguer dans les fichiers à partir du WDTV.
